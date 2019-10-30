@@ -3,3 +3,7 @@ Hello World
 Hello Demo
 
 Change from online Editor
+
+Practice with smart git
+
+changes with locally
