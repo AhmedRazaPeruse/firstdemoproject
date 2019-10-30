@@ -6,4 +6,4 @@ Change from online Editor
 
 Practice with smart git
 
-changes with locally
+changes with local git
